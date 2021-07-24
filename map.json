@@ -604,7 +604,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/..\/ducmi\/Downloads\/Compressed\/Tilesets\/Modern_Office_Revamped\/1_Room_Builder_Office\/Room_Builder_Office_32x32.png",
+         "image":"assets/room.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -617,7 +617,7 @@
         {
          "columns":16,
          "firstgid":225,
-         "image":"..\/..\/ducmi\/Downloads\/Compressed\/Tilesets\/Modern_Office_Revamped\/2_Modern_Office_Black_Shadow\/Modern_Office_Black_Shadow_32x32.png",
+         "image":"assets/office.png",
          "imageheight":1696,
          "imagewidth":512,
          "margin":0,
@@ -630,7 +630,7 @@
         {
          "columns":16,
          "firstgid":1073,
-         "image":"..\/..\/ducmi\/Downloads\/Compressed\/Tilesets\/1_Interiors\/32x32\/Theme_Sorter_32x32\/5_Classroom_and_library_32x32.png",
+         "image":"assets/classroom.png",
          "imageheight":1088,
          "imagewidth":512,
          "margin":0,
@@ -643,7 +643,7 @@
         {
          "columns":8,
          "firstgid":1617,
-         "image":"..\/..\/ducmi\/Downloads\/Compressed\/Tilesets\/Others\/Pipoya RPG Tileset 32x32\/[Base]BaseChip_pipo.png",
+         "image":"assets/base.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -656,7 +656,7 @@
         {
          "columns":6,
          "firstgid":2681,
-         "image":"\/\/wsl.localhost\/Ubuntu\/home\/mrboo\/git\/workadventure-map-starter-kit\/src\/assets\/Special_Zones.png",
+         "image":"assets/special.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
